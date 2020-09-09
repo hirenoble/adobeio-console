@@ -2,6 +2,7 @@
 
 Adobe Developer Console is the developer's tool for managing relationship between their applications and Adobe technology. Through Console, developers can create and manage applications that communicate and collaborate with Adobe.
 
+
 - [Projects](projects.md): Applications you create that leverage the power of Adobe products and technologies through services such as APIs, Events, and Runtime.
   - [Project Firefly template](projects-template.md): The Project Firefly template provides all of the developer tools you need to build Single Page Applications with Adobe's UI toolkit, create microservices, and orchestrate APIs in Adobe Experience Cloud. Collaborate with your team in dedicated workspaces and deploy to your organization seamlessly. 
   - [Plugins](plugin-project.md): Created as part of a project, plugins enhance the functionality of Adobe products and are accessed through the UI of those products. These are typically available through the Adobe Marketplace.
