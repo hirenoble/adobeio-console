@@ -1,6 +1,5 @@
 # Adobe Developer Console Documentation
 
-
 Adobe Developer Console is the developer's tool for managing relationship between their applications and Adobe technology. Through Console, developers can create and manage applications that communicate and collaborate with Adobe.
 
 - [Projects](projects.md): Applications you create that leverage the power of Adobe products and technologies through services such as APIs, Events, and Runtime.
